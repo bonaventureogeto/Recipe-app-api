@@ -1,5 +1,5 @@
 lamguage: python
-python: -"3.6.7"
+python: -"3.6"
 
 # install dependencies
 install:
